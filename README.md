@@ -9,4 +9,4 @@ Hope you Enjoy!
 
 ##SCREENSHOTS
 
-![alt text](https://github.com/mavnyin88/kissandflymusicapp/blob/master/IMG_1157.jpg "Main Screen")
+![alt text](https://github.com/mavnyin88/kissandflymusicapp/blob/master/kissandflyss.jpeg "Main Screen")
