@@ -7,6 +7,6 @@ This music app can play, pause, and stop five songs.
 Ultimately I wanted to get the functionality running first then make a sleek UI.
 Hope you Enjoy!
 
-##SCREENSHOTS
+##SCREENSHOT:
 
 ![alt text](https://github.com/mavnyin88/kissandflymusicapp/blob/master/kissandflyss.jpeg "Main Screen")
