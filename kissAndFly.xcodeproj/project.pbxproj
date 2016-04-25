@@ -14,6 +14,8 @@
 		4C5BFE341CCB000C00252471 /* spinme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE301CCB000C00252471 /* spinme.mp3 */; };
 		4CAD72501CCE7BD300526B98 /* bgBlank.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CAD724F1CCE7BD300526B98 /* bgBlank.png */; };
 		4CAD72521CCE7D3D00526B98 /* february.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4CAD72511CCE7D3D00526B98 /* february.mp3 */; };
+		4CE2999A1CCEABE80066AC32 /* knf pink.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 4CE299991CCEABE80066AC32 /* knf pink.jpg */; };
+		4CE2999C1CCEADE70066AC32 /* KNF MAIN REVERB 2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CE2999B1CCEADE70066AC32 /* KNF MAIN REVERB 2.png */; };
 		4CEA8FDE1C6E782F00096ED8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEA8FDD1C6E782F00096ED8 /* AppDelegate.swift */; };
 		4CEA8FE01C6E782F00096ED8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEA8FDF1C6E782F00096ED8 /* ViewController.swift */; };
 		4CEA8FE31C6E782F00096ED8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CEA8FE11C6E782F00096ED8 /* Main.storyboard */; };
@@ -29,6 +31,8 @@
 		4C5BFE301CCB000C00252471 /* spinme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = spinme.mp3; path = ../../../../Downloads/spinme.mp3; sourceTree = "<group>"; };
 		4CAD724F1CCE7BD300526B98 /* bgBlank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bgBlank.png; path = ../../../bgBlank.png; sourceTree = "<group>"; };
 		4CAD72511CCE7D3D00526B98 /* february.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = february.mp3; path = ../../../../Downloads/february.mp3; sourceTree = "<group>"; };
+		4CE299991CCEABE80066AC32 /* knf pink.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "knf pink.jpg"; path = "../../../../Pictures/knf pink.jpg"; sourceTree = "<group>"; };
+		4CE2999B1CCEADE70066AC32 /* KNF MAIN REVERB 2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = "KNF MAIN REVERB 2.png"; path = "../../../../Pictures/KNF MAIN REVERB 2.png"; sourceTree = "<group>"; };
 		4CEA8FDA1C6E782F00096ED8 /* kissAndFly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kissAndFly.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		4CEA8FDD1C6E782F00096ED8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		4CEA8FDF1C6E782F00096ED8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
@@ -62,6 +66,8 @@
 			isa = PBXGroup;
 			children = (
 				4CAD724F1CCE7BD300526B98 /* bgBlank.png */,
+				4CE299991CCEABE80066AC32 /* knf pink.jpg */,
+				4CE2999B1CCEADE70066AC32 /* KNF MAIN REVERB 2.png */,
 				4C5BFE2B1CCAF14B00252471 /* kissandflybg2.png */,
 			);
 			name = Pics;
@@ -176,7 +182,9 @@
 				4C5BFE341CCB000C00252471 /* spinme.mp3 in Resources */,
 				4CEA8FE31C6E782F00096ED8 /* Main.storyboard in Resources */,
 				4C5BFE2C1CCAF14B00252471 /* kissandflybg2.png in Resources */,
+				4CE2999C1CCEADE70066AC32 /* KNF MAIN REVERB 2.png in Resources */,
 				4CAD72501CCE7BD300526B98 /* bgBlank.png in Resources */,
+				4CE2999A1CCEABE80066AC32 /* knf pink.jpg in Resources */,
 				4C5BFE311CCB000C00252471 /* tellme.mp3 in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
