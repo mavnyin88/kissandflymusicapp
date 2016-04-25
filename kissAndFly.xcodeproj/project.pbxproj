@@ -1,0 +1,345 @@
+// !$*UTF8*$!
+{
+	archiveVersion = 1;
+	classes = {
+	};
+	objectVersion = 46;
+	objects = {
+
+/* Begin PBXBuildFile section */
+		4C5BFE2C1CCAF14B00252471 /* kissandflybg2.png in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE2B1CCAF14B00252471 /* kissandflybg2.png */; };
+		4C5BFE311CCB000C00252471 /* tellme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE2D1CCB000C00252471 /* tellme.mp3 */; };
+		4C5BFE321CCB000C00252471 /* lettinggo.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE2E1CCB000C00252471 /* lettinggo.mp3 */; };
+		4C5BFE331CCB000C00252471 /* deargod.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE2F1CCB000C00252471 /* deargod.mp3 */; };
+		4C5BFE341CCB000C00252471 /* spinme.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4C5BFE301CCB000C00252471 /* spinme.mp3 */; };
+		4CAD72501CCE7BD300526B98 /* bgBlank.png in Resources */ = {isa = PBXBuildFile; fileRef = 4CAD724F1CCE7BD300526B98 /* bgBlank.png */; };
+		4CAD72521CCE7D3D00526B98 /* february.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = 4CAD72511CCE7D3D00526B98 /* february.mp3 */; };
+		4CEA8FDE1C6E782F00096ED8 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEA8FDD1C6E782F00096ED8 /* AppDelegate.swift */; };
+		4CEA8FE01C6E782F00096ED8 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4CEA8FDF1C6E782F00096ED8 /* ViewController.swift */; };
+		4CEA8FE31C6E782F00096ED8 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CEA8FE11C6E782F00096ED8 /* Main.storyboard */; };
+		4CEA8FE51C6E782F00096ED8 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 4CEA8FE41C6E782F00096ED8 /* Assets.xcassets */; };
+		4CEA8FE81C6E782F00096ED8 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 4CEA8FE61C6E782F00096ED8 /* LaunchScreen.storyboard */; };
+/* End PBXBuildFile section */
+
+/* Begin PBXFileReference section */
+		4C5BFE2B1CCAF14B00252471 /* kissandflybg2.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = kissandflybg2.png; path = ../../../kissandflybg2.png; sourceTree = "<group>"; };
+		4C5BFE2D1CCB000C00252471 /* tellme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = tellme.mp3; path = ../../../../Downloads/tellme.mp3; sourceTree = "<group>"; };
+		4C5BFE2E1CCB000C00252471 /* lettinggo.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = lettinggo.mp3; path = ../../../../Downloads/lettinggo.mp3; sourceTree = "<group>"; };
+		4C5BFE2F1CCB000C00252471 /* deargod.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = deargod.mp3; path = ../../../../Downloads/deargod.mp3; sourceTree = "<group>"; };
+		4C5BFE301CCB000C00252471 /* spinme.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = spinme.mp3; path = ../../../../Downloads/spinme.mp3; sourceTree = "<group>"; };
+		4CAD724F1CCE7BD300526B98 /* bgBlank.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = bgBlank.png; path = ../../../bgBlank.png; sourceTree = "<group>"; };
+		4CAD72511CCE7D3D00526B98 /* february.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; name = february.mp3; path = ../../../../Downloads/february.mp3; sourceTree = "<group>"; };
+		4CEA8FDA1C6E782F00096ED8 /* kissAndFly.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = kissAndFly.app; sourceTree = BUILT_PRODUCTS_DIR; };
+		4CEA8FDD1C6E782F00096ED8 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
+		4CEA8FDF1C6E782F00096ED8 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		4CEA8FE21C6E782F00096ED8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
+		4CEA8FE41C6E782F00096ED8 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
+		4CEA8FE71C6E782F00096ED8 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
+		4CEA8FE91C6E782F00096ED8 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+/* End PBXFileReference section */
+
+/* Begin PBXFrameworksBuildPhase section */
+		4CEA8FD71C6E782F00096ED8 /* Frameworks */ = {
+			isa = PBXFrameworksBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXFrameworksBuildPhase section */
+
+/* Begin PBXGroup section */
+		4C5BFE351CCB001600252471 /* Support Files */ = {
+			isa = PBXGroup;
+			children = (
+				4C5BFE371CCB002700252471 /* Music */,
+				4C5BFE361CCB001E00252471 /* Pics */,
+			);
+			name = "Support Files";
+			sourceTree = "<group>";
+		};
+		4C5BFE361CCB001E00252471 /* Pics */ = {
+			isa = PBXGroup;
+			children = (
+				4CAD724F1CCE7BD300526B98 /* bgBlank.png */,
+				4C5BFE2B1CCAF14B00252471 /* kissandflybg2.png */,
+			);
+			name = Pics;
+			sourceTree = "<group>";
+		};
+		4C5BFE371CCB002700252471 /* Music */ = {
+			isa = PBXGroup;
+			children = (
+				4C5BFE2D1CCB000C00252471 /* tellme.mp3 */,
+				4C5BFE2E1CCB000C00252471 /* lettinggo.mp3 */,
+				4C5BFE2F1CCB000C00252471 /* deargod.mp3 */,
+				4CAD72511CCE7D3D00526B98 /* february.mp3 */,
+				4C5BFE301CCB000C00252471 /* spinme.mp3 */,
+			);
+			name = Music;
+			sourceTree = "<group>";
+		};
+		4CEA8FD11C6E782F00096ED8 = {
+			isa = PBXGroup;
+			children = (
+				4CEA8FDC1C6E782F00096ED8 /* kissAndFly */,
+				4CEA8FDB1C6E782F00096ED8 /* Products */,
+			);
+			sourceTree = "<group>";
+		};
+		4CEA8FDB1C6E782F00096ED8 /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				4CEA8FDA1C6E782F00096ED8 /* kissAndFly.app */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
+		4CEA8FDC1C6E782F00096ED8 /* kissAndFly */ = {
+			isa = PBXGroup;
+			children = (
+				4C5BFE351CCB001600252471 /* Support Files */,
+				4CEA8FDD1C6E782F00096ED8 /* AppDelegate.swift */,
+				4CEA8FDF1C6E782F00096ED8 /* ViewController.swift */,
+				4CEA8FE11C6E782F00096ED8 /* Main.storyboard */,
+				4CEA8FE41C6E782F00096ED8 /* Assets.xcassets */,
+				4CEA8FE61C6E782F00096ED8 /* LaunchScreen.storyboard */,
+				4CEA8FE91C6E782F00096ED8 /* Info.plist */,
+			);
+			path = kissAndFly;
+			sourceTree = "<group>";
+		};
+/* End PBXGroup section */
+
+/* Begin PBXNativeTarget section */
+		4CEA8FD91C6E782F00096ED8 /* kissAndFly */ = {
+			isa = PBXNativeTarget;
+			buildConfigurationList = 4CEA8FEC1C6E782F00096ED8 /* Build configuration list for PBXNativeTarget "kissAndFly" */;
+			buildPhases = (
+				4CEA8FD61C6E782F00096ED8 /* Sources */,
+				4CEA8FD71C6E782F00096ED8 /* Frameworks */,
+				4CEA8FD81C6E782F00096ED8 /* Resources */,
+			);
+			buildRules = (
+			);
+			dependencies = (
+			);
+			name = kissAndFly;
+			productName = kissAndFly;
+			productReference = 4CEA8FDA1C6E782F00096ED8 /* kissAndFly.app */;
+			productType = "com.apple.product-type.application";
+		};
+/* End PBXNativeTarget section */
+
+/* Begin PBXProject section */
+		4CEA8FD21C6E782F00096ED8 /* Project object */ = {
+			isa = PBXProject;
+			attributes = {
+				LastSwiftUpdateCheck = 0720;
+				LastUpgradeCheck = 0720;
+				ORGANIZATIONNAME = "Michael Avnyin";
+				TargetAttributes = {
+					4CEA8FD91C6E782F00096ED8 = {
+						CreatedOnToolsVersion = 7.2;
+						DevelopmentTeam = J2Q2QWBQ48;
+					};
+				};
+			};
+			buildConfigurationList = 4CEA8FD51C6E782F00096ED8 /* Build configuration list for PBXProject "kissAndFly" */;
+			compatibilityVersion = "Xcode 3.2";
+			developmentRegion = English;
+			hasScannedForEncodings = 0;
+			knownRegions = (
+				en,
+				Base,
+			);
+			mainGroup = 4CEA8FD11C6E782F00096ED8;
+			productRefGroup = 4CEA8FDB1C6E782F00096ED8 /* Products */;
+			projectDirPath = "";
+			projectRoot = "";
+			targets = (
+				4CEA8FD91C6E782F00096ED8 /* kissAndFly */,
+			);
+		};
+/* End PBXProject section */
+
+/* Begin PBXResourcesBuildPhase section */
+		4CEA8FD81C6E782F00096ED8 /* Resources */ = {
+			isa = PBXResourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CAD72521CCE7D3D00526B98 /* february.mp3 in Resources */,
+				4C5BFE331CCB000C00252471 /* deargod.mp3 in Resources */,
+				4CEA8FE81C6E782F00096ED8 /* LaunchScreen.storyboard in Resources */,
+				4C5BFE321CCB000C00252471 /* lettinggo.mp3 in Resources */,
+				4CEA8FE51C6E782F00096ED8 /* Assets.xcassets in Resources */,
+				4C5BFE341CCB000C00252471 /* spinme.mp3 in Resources */,
+				4CEA8FE31C6E782F00096ED8 /* Main.storyboard in Resources */,
+				4C5BFE2C1CCAF14B00252471 /* kissandflybg2.png in Resources */,
+				4CAD72501CCE7BD300526B98 /* bgBlank.png in Resources */,
+				4C5BFE311CCB000C00252471 /* tellme.mp3 in Resources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXResourcesBuildPhase section */
+
+/* Begin PBXSourcesBuildPhase section */
+		4CEA8FD61C6E782F00096ED8 /* Sources */ = {
+			isa = PBXSourcesBuildPhase;
+			buildActionMask = 2147483647;
+			files = (
+				4CEA8FE01C6E782F00096ED8 /* ViewController.swift in Sources */,
+				4CEA8FDE1C6E782F00096ED8 /* AppDelegate.swift in Sources */,
+			);
+			runOnlyForDeploymentPostprocessing = 0;
+		};
+/* End PBXSourcesBuildPhase section */
+
+/* Begin PBXVariantGroup section */
+		4CEA8FE11C6E782F00096ED8 /* Main.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CEA8FE21C6E782F00096ED8 /* Base */,
+			);
+			name = Main.storyboard;
+			sourceTree = "<group>";
+		};
+		4CEA8FE61C6E782F00096ED8 /* LaunchScreen.storyboard */ = {
+			isa = PBXVariantGroup;
+			children = (
+				4CEA8FE71C6E782F00096ED8 /* Base */,
+			);
+			name = LaunchScreen.storyboard;
+			sourceTree = "<group>";
+		};
+/* End PBXVariantGroup section */
+
+/* Begin XCBuildConfiguration section */
+		4CEA8FEA1C6E782F00096ED8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = dwarf;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				ENABLE_TESTABILITY = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_DYNAMIC_NO_PIC = NO;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_OPTIMIZATION_LEVEL = 0;
+				GCC_PREPROCESSOR_DEFINITIONS = (
+					"DEBUG=1",
+					"$(inherited)",
+				);
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = YES;
+				ONLY_ACTIVE_ARCH = YES;
+				SDKROOT = iphoneos;
+				SWIFT_OPTIMIZATION_LEVEL = "-Onone";
+			};
+			name = Debug;
+		};
+		4CEA8FEB1C6E782F00096ED8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ALWAYS_SEARCH_USER_PATHS = NO;
+				CLANG_CXX_LANGUAGE_STANDARD = "gnu++0x";
+				CLANG_CXX_LIBRARY = "libc++";
+				CLANG_ENABLE_MODULES = YES;
+				CLANG_ENABLE_OBJC_ARC = YES;
+				CLANG_WARN_BOOL_CONVERSION = YES;
+				CLANG_WARN_CONSTANT_CONVERSION = YES;
+				CLANG_WARN_DIRECT_OBJC_ISA_USAGE = YES_ERROR;
+				CLANG_WARN_EMPTY_BODY = YES;
+				CLANG_WARN_ENUM_CONVERSION = YES;
+				CLANG_WARN_INT_CONVERSION = YES;
+				CLANG_WARN_OBJC_ROOT_CLASS = YES_ERROR;
+				CLANG_WARN_UNREACHABLE_CODE = YES;
+				CLANG_WARN__DUPLICATE_METHOD_MATCH = YES;
+				"CODE_SIGN_IDENTITY[sdk=iphoneos*]" = "iPhone Developer";
+				COPY_PHASE_STRIP = NO;
+				DEBUG_INFORMATION_FORMAT = "dwarf-with-dsym";
+				ENABLE_NS_ASSERTIONS = NO;
+				ENABLE_STRICT_OBJC_MSGSEND = YES;
+				GCC_C_LANGUAGE_STANDARD = gnu99;
+				GCC_NO_COMMON_BLOCKS = YES;
+				GCC_WARN_64_TO_32_BIT_CONVERSION = YES;
+				GCC_WARN_ABOUT_RETURN_TYPE = YES_ERROR;
+				GCC_WARN_UNDECLARED_SELECTOR = YES;
+				GCC_WARN_UNINITIALIZED_AUTOS = YES_AGGRESSIVE;
+				GCC_WARN_UNUSED_FUNCTION = YES;
+				GCC_WARN_UNUSED_VARIABLE = YES;
+				IPHONEOS_DEPLOYMENT_TARGET = 9.2;
+				MTL_ENABLE_DEBUG_INFO = NO;
+				SDKROOT = iphoneos;
+				VALIDATE_PRODUCT = YES;
+			};
+			name = Release;
+		};
+		4CEA8FED1C6E782F00096ED8 /* Debug */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = kissAndFly/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MichaelAvnyin.kissAndFly;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Debug;
+		};
+		4CEA8FEE1C6E782F00096ED8 /* Release */ = {
+			isa = XCBuildConfiguration;
+			buildSettings = {
+				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				INFOPLIST_FILE = kissAndFly/Info.plist;
+				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
+				PRODUCT_BUNDLE_IDENTIFIER = com.MichaelAvnyin.kissAndFly;
+				PRODUCT_NAME = "$(TARGET_NAME)";
+			};
+			name = Release;
+		};
+/* End XCBuildConfiguration section */
+
+/* Begin XCConfigurationList section */
+		4CEA8FD51C6E782F00096ED8 /* Build configuration list for PBXProject "kissAndFly" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CEA8FEA1C6E782F00096ED8 /* Debug */,
+				4CEA8FEB1C6E782F00096ED8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+		4CEA8FEC1C6E782F00096ED8 /* Build configuration list for PBXNativeTarget "kissAndFly" */ = {
+			isa = XCConfigurationList;
+			buildConfigurations = (
+				4CEA8FED1C6E782F00096ED8 /* Debug */,
+				4CEA8FEE1C6E782F00096ED8 /* Release */,
+			);
+			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
+		};
+/* End XCConfigurationList section */
+	};
+	rootObject = 4CEA8FD21C6E782F00096ED8 /* Project object */;
+}
